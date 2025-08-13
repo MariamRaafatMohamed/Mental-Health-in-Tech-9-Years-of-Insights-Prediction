@@ -144,7 +144,7 @@ This project won **4th place** in the final competition of the **Instant AI cour
 </p>
 <p align="center">
   <img src="power_pi/Overview & Summary.jpeg" width="45%">
-  <img src="power_pi/Cluster.jpeg" width="45%">
+  <img src="power_pi/Summary.jpeg" width="45%">
 </p>
 <p align="center">
   <img src="power_pi/Cluster_Summary_Stats.jpeg" width="45%">
