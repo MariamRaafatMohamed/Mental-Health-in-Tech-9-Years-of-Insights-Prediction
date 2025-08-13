@@ -137,7 +137,8 @@ This project won **4th place** in the final competition of the **Instant AI cour
 ---
 
 ## Presentation
-[![Report Preview](Presentation.png)](Presentation.pdf)
+[![Presentation](Presentation.png)](https://www.canva.com/design/DAGv69muVfM/ULRK1f3baq_7mS493E8kbQ/edit?utm_content=DAGv69muVfM&utm_campaign=designshare&utm_medium=link2&utm_source=sharebutton)
+
 
 ## Report Screenshots
 
