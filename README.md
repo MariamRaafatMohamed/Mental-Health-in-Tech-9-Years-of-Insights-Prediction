@@ -137,8 +137,7 @@ This project won **4th place** in the final competition of the **Instant AI cour
 ---
 
 ## Presentation
-[📄 Presentation (PDF)](Presentation.pdf)
-
+[![Report Preview](Presentation.png)](Presentation.pdf)
 
 ## Report Screenshots
 
