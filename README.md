@@ -6,7 +6,7 @@ This project analyzes and models **9 years of data (2014–2023)** from the **OS
 It combines **data cleaning, exploratory analysis, interactive dashboards, clustering analysis, and machine learning modeling** to both **understand the problem** and **predict the likelihood of seeking treatment**.
 
 <p align="center">
-  <img src="Mental-Health-logo.png" width="45%">
+  <img src="mental-health-logo.png" width="45%">
 </p>
 
 ---
