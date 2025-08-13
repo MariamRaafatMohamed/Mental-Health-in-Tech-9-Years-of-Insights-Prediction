@@ -140,11 +140,11 @@ This project won **4th place** in the final competition of the **Instant AI cour
 
 <p align="center">
   <img src="power_pi/Overview_&_Demographics.jpeg" width="45%">
-  <img src="fpower_pi/Mental_Health.jpeg" width="45%">
+  <img src="power_pi/Mental_Health.jpeg" width="45%">
 </p>
 <p align="center">
-  <img src="fpower_pi/Overview_&Summary.jpeg" width="45%">
-  <img src="fpower_pi/Mental_Health.jpeg" width="45%">
+  <img src="power_pi/Overview_&Summary.jpeg" width="45%">
+  <img src="power_pi/Mental_Health.jpeg" width="45%">
 </p>
 <p align="center">
   <img src="power_pi/Cluster_Summary_Stats.jpeg" width="45%">
