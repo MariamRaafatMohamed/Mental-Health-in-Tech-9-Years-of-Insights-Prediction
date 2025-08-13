@@ -5,6 +5,10 @@ This project analyzes and models **9 years of data (2014–2023)** from the **OS
 
 It combines **data cleaning, exploratory analysis, interactive dashboards, clustering analysis, and machine learning modeling** to both **understand the problem** and **predict the likelihood of seeking treatment**.
 
+<p align="center">
+  <img src="Mental-Health-logo.png" width="45%">
+</p>
+
 ---
 
 ## Objectives
@@ -143,8 +147,8 @@ This project won **4th place** in the final competition of the **Instant AI cour
   <img src="power_pi/Mental Health.jpeg" width="45%">
 </p>
 <p align="center">
-  <img src="power_pi/Overview & Summary.jpeg" width="45%">
   <img src="power_pi/Summary.jpeg" width="45%">
+  <img src="power_pi/Cluster.jpeg" width="45%">
 </p>
 <p align="center">
   <img src="power_pi/Cluster_Summary_Stats.jpeg" width="45%">
