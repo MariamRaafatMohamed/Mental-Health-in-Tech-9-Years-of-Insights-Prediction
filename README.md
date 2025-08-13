@@ -119,32 +119,36 @@ This project won **4th place** in the final competition of the **Instant AI cour
 ## 📎 Links
 - 📓 Kaggle Notebook: [Kaggle Notebook](https://www.kaggle.com/code/mariamraafatbrownies/mental-health-tech-9-years-of-insights-prediction)
 - 🎥 Presentation: [Presentation](https://www.canva.com/design/DAGv69muVfM/ULRK1f3baq_7mS493E8kbQ/edit?utm_content=DAGv69muVfM&utm_campaign=designshare&utm_medium=link2&utm_source=sharebutton)
-- 📄 Dataset: [2014](https://www.kaggle.com/datasets/osmi/mental-health-in-tech-survey) 
-- 📄 Dataset: [2016](https://www.kaggle.com/datasets/osmi/mental-health-in-tech-2016)
-- 📄 Dataset: [2017](https://www.kaggle.com/datasets/osmihelp/osmi-mental-health-in-tech-survey-2017)
-- 📄 Dataset: [2018](https://www.kaggle.com/datasets/osmihelp/osmi-mental-health-in-tech-survey-2018)
-- 📄 Dataset: [2019](https://www.kaggle.com/datasets/osmihelp/osmi-mental-health-in-tech-survey-2019)
-- 📄 Dataset: [2020](https://www.kaggle.com/datasets/osmihelp/osmi-2020-mental-health-in-tech-survey-results)
-- 📄 Dataset: [2021](https://www.kaggle.com/datasets/osmihelp/osmh-2021-mental-health-in-tech-survey-results)
-- 📄 Dataset: [2022](https://www.kaggle.com/datasets/osmihelp/osmh-mental-health-in-tech-survey-2022)
-- 📄 Dataset: [2023](https://www.kaggle.com/datasets/osmihelp/osmi-mental-health-in-tech-survey-2023)
+- 📄 Dataset: [OSMI_2014](https://www.kaggle.com/datasets/osmi/mental-health-in-tech-survey) 
+- 📄 Dataset: [OSMI_2016](https://www.kaggle.com/datasets/osmi/mental-health-in-tech-2016)
+- 📄 Dataset: [OSMI_2017](https://www.kaggle.com/datasets/osmihelp/osmi-mental-health-in-tech-survey-2017)
+- 📄 Dataset: [OSMI_2018](https://www.kaggle.com/datasets/osmihelp/osmi-mental-health-in-tech-survey-2018)
+- 📄 Dataset: [OSMI_2019](https://www.kaggle.com/datasets/osmihelp/osmi-mental-health-in-tech-survey-2019)
+- 📄 Dataset: [OSMH_2020](https://www.kaggle.com/datasets/osmihelp/osmi-2020-mental-health-in-tech-survey-results)
+- 📄 Dataset: [OSMH_2021](https://www.kaggle.com/datasets/osmihelp/osmh-2021-mental-health-in-tech-survey-results)
+- 📄 Dataset: [OSMH_2022](https://www.kaggle.com/datasets/osmihelp/osmh-mental-health-in-tech-survey-2022)
+- 📄 Dataset: [OSMH_2023](https://www.kaggle.com/datasets/osmihelp/osmi-mental-health-in-tech-survey-2023)
 
 
 ---
 
+## Presentation
+[📄 Presentation (PDF)](Presentation.pdf)
+
+
 ## Report Screenshots
 
-![Overview & Demographics](Overview_&_Demographics.jpeg)
+![Overview & Demographics](power_pi/Overview_&_Demographics.jpeg)
 
-![Mental Health](Mental_Health.jpeg)
+![Mental Health](power_pi/Mental_Health.jpeg)
 
-![Summary](Overview_&Summary.jpeg)
+![Summary](power_pi/Overview_&Summary.jpeg)
 
-![Mental Health](Mental_Health.jpeg)
+![Mental Health](power_pi/Mental_Health.jpeg)
 
-![Cluster](Cluster.jpeg)
+![Cluster](power_pi/Cluster.jpeg) 
 
-![Cluster Summary Stats](Cluster_Summary_Stats.jpeg)
+![Cluster Summary Stats](power_pi/Cluster_Summary_Stats.jpeg)
 
-![modeling](modeling.jpeg)
+![modeling](power_pi/modeling.jpeg)
 
